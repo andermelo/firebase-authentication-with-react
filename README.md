@@ -1,6 +1,6 @@
 # firebase-authentication-with-react
  
-## Estudo com React e Firebase :metal:
+## Estudo com React e Firebase 
 ### Study with React and Firebase 
  
 
