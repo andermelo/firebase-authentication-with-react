@@ -3,7 +3,7 @@
 ### Firebase ###
 .idea
 **/node_modules/*
-**/.firebase
+**/firebase/*
 ### Node ###
 # Logs
 logs

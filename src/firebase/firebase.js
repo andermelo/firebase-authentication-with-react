@@ -1,5 +1,4 @@
 import * as firebase from 'firebase';
-
 const config = {
   apiKey: "AIzaSyBe2JJkdNsztj9apyLvhwYamZZpiZjl7Is",
   authDomain: "lunne-dc794.firebaseapp.com",
