@@ -4,6 +4,7 @@ const config = {
   authDomain: "lunne-dc794.firebaseapp.com",
   databaseURL: "https://lunne-dc794.firebaseio.com",
   projectId: "lunne-dc794",
+//projectId: "lunne-dc794",
   storageBucket:"lunne-dc794.appspot.com",
   messagingSenderId: "336634609466",
 };
